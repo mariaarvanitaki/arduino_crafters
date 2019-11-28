@@ -14,4 +14,5 @@ Arduino Crafters
 
 
 Για την κατασκευή μας Θα χρειαστούμε:
-1. Arduino UNO
+4 Arduino UNO
+4 servo
