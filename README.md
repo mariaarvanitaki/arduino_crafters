@@ -28,4 +28,7 @@ Arduino Crafters
 4 Ultrasonic Distance Sensor
 4 5kΩ resistors
 καλώδια m-m
-λεντοταινίες
+RGB λεντοταινία 1 μέτρου
+4 ακροσυνδέσεις για RGB
+4 τροφοδοτικά 1Α
+4 transistors
